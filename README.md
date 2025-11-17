@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juweriya 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel Tableau</h3>
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy turning raw messy data into clear insights and interactive dashboards.
 ### **Programming & Analysis**
 - Python (Pandas, NumPy, Matplotlib)
 - Web Scraping (BeautifulSoup)
-- Excel (Pivot Tables, Dashboards)
+- Excel (Pivot Tables, Vlookup, Xlookup)
 
 ### **Databases**
 - SQL (Joins, CTEs, Aggregations, Window Functions)
@@ -42,7 +42,7 @@ I enjoy turning raw messy data into clear insights and interactive dashboards.
 ## 📂 Projects
 
 ### 🔹 **Used Car Price Analysis**
-Analyzed 5,000+ CarDekho listings to identify pricing patterns across brands, models, years, and cities.  
+Analyzed 5,00+ CarDekho listings to identify pricing patterns across brands, models, years, and cities.  
 📌 **Project Link:**  
 https://github.com/Juweriyamd/juweriyamd.github.io/tree/main/projects/Used-Car-Price-Analysis
 
