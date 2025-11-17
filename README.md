@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juweriya 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel • Tableau</h3>
 
 ---
 
